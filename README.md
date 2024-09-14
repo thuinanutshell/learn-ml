@@ -1,2 +1,2 @@
-# cs156-ml
-collections of my work as part of the machine learning coursework
+# Machine Learning
+collections of my work as i learn machine learning
