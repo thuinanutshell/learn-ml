@@ -1,2 +1,6 @@
 # Machine Learning
-collections of my work as i learn machine learning
+## Linear Regression
+
+## Logistic Regression
+
+## References
