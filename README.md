@@ -1,4 +1,27 @@
 # Machine Learning
+- A classifier is a system that inputs (typically) a vector of *discrete and/or continuous feature values* and outputs *a single discrete value, the class*.
+- **Learning = Representation + Evaluation + Optimization**
+  - Representation: A classifier must be represented in some formal language that the computer can handle = choosing a set of classifiers that it can possibly learn. This set is called the **hypothesis space**.
+  - Evaluation (Objective Function): Distinguish good classifiers from bad ones.
+  - Optimization: A method to search among the classifiers in the language for the highest-scoring one.
+
+| Representation | Evaluation | Optimization |
+| ---         |     ---     |          --- |
+| Instances | Accuracy/Error Rate | Combinatorial Optimization
+| K-nearest Neighbor   |   Precision & Recall   | Greedy Search   |
+| Support Vector Machines    | Squared Error       | Beam Search     |
+| Hyperplanes | Likelihood| Branch-and-bound
+| Naive Bayes   |   Posterior Probability   | Continous Optimization   |
+| Logistic Regression    | Information Gain       | Unconstrained     |
+| Decision Trees    | K-L Divergence | Gradient Descent     |
+| Sets of rules    | Cost/Utility | Conjugate gradient     |
+| Propositional rules   | Margin | Quasi-Newton methods     |
+| Logic programs    |  | Constrained     |
+| Neural Networks    |  | Linear programming     |
+| Graphical models    |  | Quadratic programming    |
+| Bayesian networks    |  |      |
+| Conditional random fields    |  |      |
+   
 ## Linear Regression
 - Univariate Linear Regression
 - Multivariate Linear Regression
