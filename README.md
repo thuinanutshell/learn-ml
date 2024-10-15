@@ -7,7 +7,8 @@ Showing off walls of sure and solid stone. <br><br>
 So if, my dear, there sometimes seem to be <br>
 Old bridges breaking between you and me <br><br>
 Never fear. We may let the scaffolds fall <br>
-Confident that we have built our wall. <br>
+Confident that we have built our wall. <br><br>
+Seamus Heaney
 # Machine Learning
 - A classifier is a system that inputs (typically) a vector of *discrete and/or continuous feature values* and outputs *a single discrete value, the class*.
 - **Learning = Representation + Evaluation + Optimization**
