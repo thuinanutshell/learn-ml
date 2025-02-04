@@ -1,14 +1,3 @@
-> Masons, when they start upon a building, <br>
-Are careful to test out the scaffolding; <br><br>
-Make sure that planks won’t slip at busy points, <br>
-Secure all ladders, tighten bolted joints. <br><br>
-And yet all this comes down when the job’s done <br>
-Showing off walls of sure and solid stone. <br><br>
-So if, my dear, there sometimes seem to be <br>
-Old bridges breaking between you and me <br><br>
-Never fear. We may let the scaffolds fall <br>
-Confident that we have built our wall. <br><br>
-Seamus Heaney
 # Machine Learning
 - A classifier is a system that inputs (typically) a vector of *discrete and/or continuous feature values* and outputs *a single discrete value, the class*.
 - **Learning = Representation + Evaluation + Optimization**
