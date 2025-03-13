@@ -1,9 +1,7 @@
 Below is the collection of my own illustrations for different ML algorithms
 
 # Convolutional Neural Networks
-
-![cnn4](https://github.com/user-attachments/assets/84127c3b-bd4c-4612-a0be-2c84a5a82922)
-
+![cnn5](https://github.com/user-attachments/assets/0996db7a-067b-471c-a35d-fd1feb208d76)
 # Multilayer Perceptron
 
 # Decision Trees
